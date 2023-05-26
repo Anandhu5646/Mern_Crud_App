@@ -1,0 +1,31 @@
+.navBar{
+    margin-top: -350px;
+    width: 100vw;
+    height: 60px;
+    background-color: #e6cae1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navContainer{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+.searchBox{
+    border: 1px solid rgb(179, 176, 176);
+    padding: 8px;
+    border-radius: 5px;
+    color: rgb(24, 20, 20);
+
+}
+.searchBox input{
+    background: none;
+    border: none;
+    outline: none;
+    height: 25px;
+}
+.nav-sec{
+    display: flex;
+    gap: 10px;
+}
